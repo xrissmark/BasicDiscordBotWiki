@@ -1,0 +1,3 @@
+# BasicDiscordBotWiki
+
+Wiki for BasicDIscordBot
